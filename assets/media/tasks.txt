@@ -1,0 +1,6 @@
+remaining links to be read
+->UI and managing components
+->writting animation 
+->Tables
+->Modal
+->Footer
